@@ -5,7 +5,7 @@ Archive store of built HTML documentation for old versions of cfunits
 
 This repository is designed to house built i.e. HTML-format files defining
 the content of the built documentation for older, i.e. not the latest,
-versions of the [cfdunits](https://github.com/NCAS-CMS/cfunits) library.
+versions of the [cfunits](https://github.com/NCAS-CMS/cfunits) library.
 
 Note that the contents of this directory, namely the built HTML documntation
 for the older versions, used to live in the core cfunits repository (as
